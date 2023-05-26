@@ -7,7 +7,8 @@ pipeline {
                 sh 'python3 --version'
                 sh 'python3 pipeline.py'
                 echo 'Here we go again'
-                }
+                echo 'My My'
+            }
         }
     }
 }

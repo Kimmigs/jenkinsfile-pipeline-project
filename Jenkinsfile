@@ -7,6 +7,7 @@ pipeline {
                 sh 'echo using shell within Jenkinsfile'
                 echo 'not using shell in the Jenkinsfile'
                 echo 'I love bootcamp, although this is getting ridiculous'
+                echo 'ok...Im beginning to get Jenkins. WooHoo!'
             }
         }
     }
